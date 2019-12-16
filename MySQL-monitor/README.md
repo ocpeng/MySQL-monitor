@@ -1,21 +1,21 @@
-# ÁÁµã£º¿ìËÙ´î½¨MySQL¼¯Èº¼à¿Ø
-* ¼¯ºÏzabbix£¬µ¼Èë×Ô¶¯»¯½Å±¾ÒÔ¼°grafanaÄ£°å
+# äº®ç‚¹ï¼šå¿«é€Ÿæ­å»ºMySQLé›†ç¾¤ç›‘æ§
+* é›†åˆzabbixï¼Œå¯¼å…¥è‡ªåŠ¨åŒ–è„šæœ¬ä»¥åŠgrafanaæ¨¡æ¿
 
-# ²½Öè
-# 1. ²¿Êğzabbix agent
-* µ¼ÈëagentÅäÖÃÎÄ¼ş(zabbix_agentd.conf)£¬ÒÔ¼°½Å±¾scripts.tar.gz¡£²¢Æô¶¯agent
-# 2. Ôö¼Ó×Ô¶¯»¯·¢ÏÖÄ£°å
-* µÇÂ½web¶Ë£¬Ìí¼ÓÄ£°å(zbx_export_templates.xml)
-# 3. ÅäÖÃgrafana±äÁ¿
-* Ñ¡ÔñzabbixÊı¾İÔ´£¬QueryÌîĞ´£ºDB-MySQL.*  
-# 4. Ìí¼ÓMySQL dashboard
-* µ¼Èëgrafana dashboradÎÄ¼ş(grafana_mysql.json)
+# æ­¥éª¤
+# 1. éƒ¨ç½²zabbix agent
+* å¯¼å…¥agenté…ç½®æ–‡ä»¶(zabbix_agentd.conf)ï¼Œä»¥åŠè„šæœ¬scripts.tar.gzã€‚å¹¶å¯åŠ¨agent
+# 2. å¢åŠ è‡ªåŠ¨åŒ–å‘ç°æ¨¡æ¿
+* ç™»é™†webç«¯ï¼Œæ·»åŠ æ¨¡æ¿(zbx_export_templates.xml)
+# 3. é…ç½®grafanaå˜é‡
+* é€‰æ‹©zabbixæ•°æ®æºï¼ŒQueryå¡«å†™ï¼šDB-MySQL.*  
+# 4. æ·»åŠ MySQL dashboard
+* å¯¼å…¥grafana dashboradæ–‡ä»¶(grafana_mysql.json)
 
 
-# demoÍ¼Æ¬
-* grafana±äÁ¿ÉèÖÃ
-![Image text](https://raw.githubusercontent.com/ocpeng/grafana-amap-chart/master/grafana-amap-chart/demo/02.png)
-* ×îÖÕĞ§¹ûÕ¹Ê¾
-![Image text](https://raw.githubusercontent.com/ocpeng/grafana-amap-chart/master/grafana-amap-chart/demo/01.png)
-* ÈçÄÜ°ïÖúµ½Äú£¬»¶Ó­¸øÓëÖ§³Ö£¬Ğ»Ğ»
-![Image text](https://raw.githubusercontent.com/ocpeng/grafana-amap-chart/master/grafana-amap-chart/demo/03.png)
+# demoå›¾ç‰‡
+* grafanaå˜é‡è®¾ç½®
+![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/02.png)
+* æœ€ç»ˆæ•ˆæœå±•ç¤º
+![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/01.png)
+* å¦‚èƒ½å¸®åŠ©åˆ°æ‚¨ï¼Œæ¬¢è¿ç»™ä¸æ”¯æŒï¼Œè°¢è°¢
+![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/03.png)

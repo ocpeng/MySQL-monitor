@@ -1,5 +1,5 @@
 # 亮点：快速搭建MySQL集群监控
-* 集合zabbix，导入自动化脚本以及grafana模板
+* 结合zabbix，导入自动化脚本以及grafana模板
 
 # 步骤
 # 1. 部署zabbix agent

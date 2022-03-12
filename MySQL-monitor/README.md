@@ -17,5 +17,3 @@
 ![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/02.png)
 * 最终效果展示
 ![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/01.png)
-* 如能帮助到您，欢迎给与支持，谢谢
-![Image text](https://raw.githubusercontent.com/ocpeng/MySQL-monitor/master/MySQL-monitor/demo/03.png)
